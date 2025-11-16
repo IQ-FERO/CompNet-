@@ -1,5 +1,5 @@
 # CompNet-
-An Assignment assignment in 5th semester of Computer Networking
+An Assignment in 5th semester of Computer Networking
 F23BSAI-BLUE
 
 Ibadullah Qureshi 
